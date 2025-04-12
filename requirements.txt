@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain-experimental
+langchain-groq
+sentence-transformers
+gradio
+neo4j
+pypdf
